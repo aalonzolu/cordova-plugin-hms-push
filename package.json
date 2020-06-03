@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-hms-push",
-  "version": "4.0.3",
+  "name": "cordova-plugin-hms-push-gt",
+  "version": "4.0.4",
   "description": "cordova-plugin-hms-push",
   "cordova": {
     "id": "cordova-plugin-hms-push",
@@ -25,5 +25,18 @@
     "package.json",
     "plugin.xml",
     "README.md"
-  ]
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalonzolu/cordova-plugin-hms-push.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aalonzolu/cordova-plugin-hms-push/issues"
+  },
+  "homepage": "https://github.com/aalonzolu/cordova-plugin-hms-push#readme"
 }

@@ -26,7 +26,7 @@ The Cordova SDK code package is described as follows:
 
 3. Run the following command in the root directory of the Cordova project:
    
-***```cordova plugin add PATH_TO_CORDOVA_PUSH_SDK```***
+***```cordova plugin add cordova-plugin-hms-push-gt```***
 
 4. check whether the Cordova Push SDK is successfully added to Plugin folder in the root directory of the Cordova project.
 
